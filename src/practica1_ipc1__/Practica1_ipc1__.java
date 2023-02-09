@@ -4,7 +4,7 @@
  */
 package practica1_ipc1__;
 import java.util.Scanner;
-/**
+/***
  *
  * @author BOHRKWAQ9CR
  */
